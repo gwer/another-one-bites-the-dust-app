@@ -1,0 +1,14 @@
+{
+  "name": "another-one-bites-the-dust-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "gwer",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "another-one-bites-the-dust": "^0.0.1",
+    "nodemon": "^2.0.15"
+  }
+}
