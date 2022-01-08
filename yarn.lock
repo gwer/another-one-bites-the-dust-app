@@ -27,10 +27,10 @@ accepts@~1.3.7:
     mime-types "~2.1.24"
     negotiator "0.6.2"
 
-another-one-bites-the-dust@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/another-one-bites-the-dust/-/another-one-bites-the-dust-0.0.1.tgz#3877bb9e50b62879314bc8add8bb6daf1e549e8e"
-  integrity sha512-/t1202UHXMtxxDVnyR7CheZARDWhEfLLnjXKZ4HRhpYBDXgPzlaoJOBQ7vNhrGOHgbwGe357kRJBgiGe78ADdw==
+another-one-bites-the-dust@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/another-one-bites-the-dust/-/another-one-bites-the-dust-0.1.1.tgz#a346e17e99661c4d96946f18d8a399aac7c6cb3a"
+  integrity sha512-v3/0HhlOtJ8bqPb1dBCMuimdtlPfwagnW2l4jKa2AsXJqq9zN+gex9UT8bNRfiYKWkFgYY05L5yd3VFpxDvZRQ==
   dependencies:
     express "^4.17.2"
     hbs "^4.2.0"

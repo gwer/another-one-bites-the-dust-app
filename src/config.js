@@ -5,6 +5,8 @@ const {
 
 const config = {
   pollingCycle: 120, // in seconds
+  // title: 'Your custom title',
+  showExpanded: true,
   groups: [
     {
       name: 'Google Services',
